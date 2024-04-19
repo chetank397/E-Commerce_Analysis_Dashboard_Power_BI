@@ -20,5 +20,4 @@ Average number of days taken for order_delivered_customer_date for pet_shop
 
 Average price and payment values from customers of sao paulo city
 
-Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores![image](https://github.com/chetank397/E-Commerce_Analysis_Dashboard_Power_BI/assets/163136348/4290a88a-9e29-4dae-a388-4da72b0f9155)
-
+Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores
