@@ -1,6 +1,9 @@
 # E-Commerce_Analysis_Dashboard_Power_BI
 
-[E-commerce_analytics_Dashbaord.pdf](https://github.com/chetank397/E-Commerce_Analysis_Dashboard_Power_BI/files/15037729/E-commerce_analytics_Dashbaord.pdf)
+![E-commerce_analytics_Dashbaord_page-0001](https://github.com/chetank397/E-Commerce_Analysis_Dashboard_Power_BI/assets/163136348/059f03c8-437a-4ffa-9d02-4cd9a64a57fc)
+
+![E-commerce_analytics_Dashbaord_page-0002](https://github.com/chetank397/E-Commerce_Analysis_Dashboard_Power_BI/assets/163136348/919c60e8-8579-476a-966d-029a502e9ab1)
+
 
 Description:
 The E-Commerce Analysis Dashboard is a comprehensive tool designed to empower e-commerce businesses with actionable insights derived from their data. By aggregating, visualizing, and analyzing key metrics and trends, this dashboard provides a clear understanding of the performance of your online store, enabling data-driven decision-making and strategic optimization.
