@@ -1,5 +1,7 @@
 # E-Commerce_Analysis_Dashboard_Power_BI
 
+Interact with project live here : https://app.powerbi.com/groups/me/reports/ee7d2437-f7a7-4068-a0bd-7b7d6dfa3667/ReportSection42483d0803a143ca1071?experience=power-bi
+
 ![E-commerce_analytics_Dashbaord_page-0001](https://github.com/chetank397/E-Commerce_Analysis_Dashboard_Power_BI/assets/163136348/059f03c8-437a-4ffa-9d02-4cd9a64a57fc)
 
 ![E-commerce_analytics_Dashbaord_page-0002](https://github.com/chetank397/E-Commerce_Analysis_Dashboard_Power_BI/assets/163136348/919c60e8-8579-476a-966d-029a502e9ab1)
